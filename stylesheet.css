@@ -1,0 +1,29 @@
+body {	
+
+	background-color: #b9d9ff; 
+
+}
+
+.header1 {
+	text-align: center;
+	color: #1327e1;
+	margin: auto; 
+}
+
+.header2 {
+	color: blue;
+	margin-left: 200px;
+	font-size: 200%;
+	margin-bottom: 5px; 
+	margin-top: 0px;
+}
+
+.text {
+	color: black;
+}
+
+.div {
+	width: 600px; 
+	margin: auto;
+	text-align: center;
+}
